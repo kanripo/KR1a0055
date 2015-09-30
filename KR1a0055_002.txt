@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易翼傳
-#+DATE: 2015-09-23 09:34:40
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:55:41.461527
+#+PROPERTY: ID KR1a0055
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 上經下
 <pb:KR1a0055_WYG_002-1a>¶
 欽定四庫全書¶
 　易翼傳上經下　　　　　宋　鄭汝諧　撰¶
@@ -924,6 +926,7 @@
 　¶
 　¶
 　易翼傳上經下¶
+#+PROPERTY: JUAN 下經上
 <pb:KR1a0055_WYG_002-53a>¶
 欽定四庫全書¶
 　易翼傳下經上　　　　　宋　鄭汝諧　撰¶
@@ -1860,6 +1863,7 @@
 　¶
 　¶
 　易翼傳下經上¶
+#+PROPERTY: JUAN 下經下
 <pb:KR1a0055_WYG_002-105a>¶
 欽定四庫全書¶
 　易翼傳下經下　　　　　宋　鄭汝諧　撰¶
@@ -2814,4 +2818,3 @@
 　¶
 　¶
 　易翼傳下經下¶
-

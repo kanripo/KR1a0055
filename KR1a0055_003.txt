@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易翼傳
-#+DATE: 2015-09-23 09:34:40
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:55:41.508030
+#+PROPERTY: ID KR1a0055
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [后序]
 <pb:KR1a0055_WYG_003-1a>¶
 河南先生序易傳曰予所傳者辭也由辭以得意則在¶
 乎人焉此易翼傳之所以作也先君玩大易之理誦易¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　易翼傳後序¶
-
